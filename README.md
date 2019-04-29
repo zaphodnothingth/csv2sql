@@ -1,2 +1,2 @@
-# csv2oracle
+# csv2sql
 simple python script to transform CSV(s) to SQL
