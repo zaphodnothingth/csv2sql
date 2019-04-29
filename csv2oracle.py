@@ -1,5 +1,6 @@
 """todo
 1 for append mode, need to check if incoming columns agree with target table (currently it'll just crash)
+2 add schema & password args so they don't need to be stored in the config file
 """
 
 
