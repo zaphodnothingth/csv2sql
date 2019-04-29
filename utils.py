@@ -4,6 +4,7 @@ import sys
 from datetime import datetime
 
 OUTFILE = sys.argv[0] + ".log"
+# clean to ord codes acceptable for oracle column names
 ord_list = list(range(48,57,1)) + list(range(65,90,1)) + [95] + list(range(97,122,1))
 
 
