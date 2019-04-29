@@ -1,2 +1,2 @@
-# csv_pipeline
-Repo for simple python script to transform CSV(s) to SQL
+# csv2oracle
+simple python script to transform CSV(s) to SQL
